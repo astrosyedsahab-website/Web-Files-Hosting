@@ -1,2 +1,2 @@
-# date-age-calculator Assets 
-Managed by Astro Syed Sahab 
+# date-age-calculator  
+Assets for date-age-calculator  
