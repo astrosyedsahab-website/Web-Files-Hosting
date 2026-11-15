@@ -1,1 +1,0 @@
-# vashikaran-ruhani-ilaj 

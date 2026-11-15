@@ -1,1 +1,0 @@
-# online-amulet-taweez-services 
